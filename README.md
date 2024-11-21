@@ -12,7 +12,7 @@
  4. [x] Alterar Produto
  5. [x] Excluir Produto
 6. [x] Criar a Classe de Modelo (Produto)
-7. [ ] Criar o HomeController (Carregar a Index)
+7. [x] Criar o HomeController (Carregar a Index)
 8. [x] Criar o ProdutoController (Controla as operações de Produto)
    1. [x] Criar a Index (View)
    2. [x] Cria o Menu (Layout)
@@ -21,13 +21,13 @@
    5. [x] Index Produto (Listar Produto)
    6. [x] Editar Produto
 9. [x] Desativar Produto (Funcionalidade Completa)
-10. [ ] Cadastrar Usuário [0.5] (Funcionalidade Completa)
-11. [ ] Pesquisar Usuário [0.5] (Funcionalidade Completa)
-12. [ ] Alterar Usuário [0.5] (Funcionalidade Completa)
-13. [ ] Excluir Usuário [0.5] (Funcionalidade Completa)
-14. [ ] Efetuar Login/Logout do Usuário [1.0] (Funcionalidade Completa)
-15. [ ] Listar Produtos Na página Inicial [0.5]
-16. [ ] Listar Produtos com Imagem [2.0]
-17. [ ] Adicionar o Modal de Confirmação de exclusão no projeto[1.0]
-18. [ ] Criar uma funcionalidade de Lista de produtos favoritos do Usuário [1.5]
-19. [ ] Criar o Carrinho de compras [2.0] (Adicionar o Produto selecionado na sessão)
+10. [x] Cadastrar Usuário [0.5] (Funcionalidade Completa)
+11. [x] Pesquisar Usuário [0.5] (Funcionalidade Completa)
+12. [x] Alterar Usuário [0.5] (Funcionalidade Completa)
+13. [x] Excluir Usuário [0.5] (Funcionalidade Completa)
+14. [x] Efetuar Login/Logout do Usuário [1.0] (Funcionalidade Completa)
+15. [x] Listar Produtos Na página Inicial [0.5]
+16. [x] Listar Produtos com Imagem [2.0]
+17. [x] Adicionar o Modal de Confirmação de exclusão no projeto[1.0]
+18. [x] Criar uma funcionalidade de Lista de produtos favoritos do Usuário [1.5]
+19. [x] Criar o Carrinho de compras [2.0] (Adicionar o Produto selecionado na sessão)
